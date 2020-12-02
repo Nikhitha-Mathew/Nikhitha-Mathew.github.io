@@ -6,7 +6,7 @@ I am a Research Associate in Economics and Public Policy at the Indian School of
 
 
 
-###Curriculum Vitae
+### Curriculum Vitae
 ![CV](Nikhitha_Resume.pdf)
 
 

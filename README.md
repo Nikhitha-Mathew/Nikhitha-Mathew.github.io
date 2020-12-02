@@ -1,4 +1,4 @@
-
+# Nikhitha Mary Mathew
 
 ### About Me
 
@@ -7,4 +7,6 @@ I am a Research Associate in Economics and Public Policy at the Indian School of
 
 [Curriculum Vitae](Nikhitha_Resume.pdf)
 
+### Research Interests
 
+My research interests lie in the field of Development Economics and Economics of Education. I am interested in studying 
